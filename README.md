@@ -64,5 +64,6 @@ This repository contains solutions for CAT1 – an AI Programming assessment.
 - Git & GitHub
 - AI Assistance tools (if applicable)
 
-## Author
-Your Name
+## Learner
+   Name
+
